@@ -1,0 +1,21 @@
+$bleuheader: #132f3d;
+$bouton: #e96d92;
+$couleurtexteheader: #ffffff;
+
+.entete {
+  overflow-x: hidden;
+  background-color: $bleuheader;
+  &__titre {
+  }
+}
+.entete__banniere__img {
+  position: relative;
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.entete__logo {
+  background-color: none;
+}
